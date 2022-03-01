@@ -20,6 +20,6 @@ g++ -o numeron numeron.cpp
 実行できたらそこからゲームスタートです.
 
 もしよければ遊んでみてください.
-なおGUI versionもつくってみました.
+なおhtnk,css,Javascriptでもつくってみました.
 [NUMERON](https://github.com/teru12012000/project)
 こちらもぜひ！
